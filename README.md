@@ -45,7 +45,10 @@ self.day.append(random (1- max number of patients/nurse)
 self.nurse_data[j][0] = ‘e’
 Schedule.append(self.nurse_data)
 Return
-Self.schedule
+Self.schedule 
+
+Personal contribution : 
+I was responsible for developing the fittenes function as well as the genatic algorithm class  
 
 Used tools : 
 IDEs: Pycharm and Jupyter.
@@ -65,6 +68,6 @@ Future modifications:
 Introducing more features to the GUI such as deleting user and using more
 advanced approaches for large scaling data
 
- 
+
 
 
