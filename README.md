@@ -66,7 +66,11 @@ There are no many features in the GUI. The algorithm works only for
 small-scaling and medium-scaling data.
 Future modifications:
 Introducing more features to the GUI such as deleting user and using more
-advanced approaches for large scaling data
+advanced approaches for large scaling data 
+
+
+![Screenshot (180)](https://user-images.githubusercontent.com/71048834/208254841-adf14e37-8909-421d-9b62-78ca1d1ea5ff.png)
+
 
 
 
