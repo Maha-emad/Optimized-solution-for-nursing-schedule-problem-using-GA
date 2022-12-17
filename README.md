@@ -1,4 +1,4 @@
-# GA-for-NSP-optimized-solution-  
+# Optimized solution for nursing schedule problem using GA  
 
 Scheduling the right nursing staff will improve the performance and quality of the nursing unit. 
 Proper scheduling will help recruitment, nurse preferences, and maintain an overtime budget for a logical nurse.
